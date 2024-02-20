@@ -1,0 +1,25 @@
+There are three ways to run the program.
+You can choose whichever ways your heart desire. 
+I'm gonna guide you how to run the programs.
+*Remember to extract the file first in order to run the program*
+
+"Batch" File :
+1)Click into "Batch" file folder.
+2)Click into "Result" .
+3)Execute the program.
+
+
+"Command Prompt" File :
+1)Open up your command prompt.
+2)Change the directory to the location where you save the "Command Prompt" file.
+3)Then type " java Main "(Don't include quotation marks("") ) and press enter.
+4)Execute the program.
+
+
+"IntelliJ" File :
+1)Click into "IntelliJ" file folder.
+2)Click into "Coursework_1" file folder.
+3)Click into "Coursework_1" IML file.
+4)Navigate to Project window.
+5)Click "Main.java" under "com.company" file to open up the code.
+6)Execute the code by clicking the green triangle icon.
